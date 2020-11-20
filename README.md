@@ -4,6 +4,7 @@ Code for the paper LDT-NET：A Lightweight Skeleton-based Action Recognition Net
 
 ## Installation
 This code has been tested on Window10 with Keras==2.1.4 and tensorflow==1.14.0 on CPU. 
+
 This code has been tested on Ubuntu16.04 with Keras==2.1.4 and tensorflow-gpu == 1.80 on GTX1080ti (CUDA version == 9.0.176  CUDNN version == 7501)
 
 * building virtual environment by conda `conda create -n test_LDT-NET python=3.6`
